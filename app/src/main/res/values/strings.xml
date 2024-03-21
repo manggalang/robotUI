@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">robot-ui</string>
+    <string name="number">90</string>
+    <string name="dropoff_point_btn">TAP TO CLOSE\nTHE LID</string>
+    <string name="pickup_title">ORDER ID:</string>
+    <string name="order_id">CSE192</string>
+    <string name="pickup_point_btn">TAP TO CLOSE\nTHE LID AND DELIVER</string>
+</resources>
